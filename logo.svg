@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="70" height="70">
     <text x="50%" y="50%" text-anchor="middle" fill="#1e90ff" font-family="'Inter', sans-serif" font-weight="700" font-size="50">
         Quinteb
     </text>
-    <text x="50%" y="60%" text-anchor="middle" fill="#00b3b3" font-family="'Inter', sans-serif" font-weight="400" font-size="30">
+    <text x="50%" y="80%" text-anchor="middle" fill="#00b3b3" font-family="'Inter', sans-serif" font-weight="400" font-size="30">
         Studio
     </text>
 </svg>
